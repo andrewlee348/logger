@@ -2,7 +2,7 @@
 
 use template:
 '''
-fetch('http://localhost:9999/api/data', {
+fetch('http://localhost:8080/http://localhost:9999/api/data', {
 method: 'POST',
 headers: {
 'Content-Type': 'application/json',
